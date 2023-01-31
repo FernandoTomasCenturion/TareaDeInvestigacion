@@ -1,0 +1,10 @@
+C:\Users\tomas.arsenio\source\Repos\TrabajoDeInvestigacion\TrabajoDeInvestigacion\obj\Debug\TrabajoDeInvestigacion.csproj.AssemblyReference.cache
+C:\Users\tomas.arsenio\source\Repos\TrabajoDeInvestigacion\TrabajoDeInvestigacion\obj\Debug\TrabajoDeInvestigacion.Form1.resources
+C:\Users\tomas.arsenio\source\Repos\TrabajoDeInvestigacion\TrabajoDeInvestigacion\obj\Debug\TrabajoDeInvestigacion.Properties.Resources.resources
+C:\Users\tomas.arsenio\source\Repos\TrabajoDeInvestigacion\TrabajoDeInvestigacion\obj\Debug\TrabajoDeInvestigacion.csproj.GenerateResource.cache
+C:\Users\tomas.arsenio\source\Repos\TrabajoDeInvestigacion\TrabajoDeInvestigacion\obj\Debug\TrabajoDeInvestigacion.csproj.CoreCompileInputs.cache
+C:\Users\tomas.arsenio\source\Repos\TrabajoDeInvestigacion\TrabajoDeInvestigacion\bin\Debug\TrabajoDeInvestigacion.exe.config
+C:\Users\tomas.arsenio\source\Repos\TrabajoDeInvestigacion\TrabajoDeInvestigacion\bin\Debug\TrabajoDeInvestigacion.exe
+C:\Users\tomas.arsenio\source\Repos\TrabajoDeInvestigacion\TrabajoDeInvestigacion\bin\Debug\TrabajoDeInvestigacion.pdb
+C:\Users\tomas.arsenio\source\Repos\TrabajoDeInvestigacion\TrabajoDeInvestigacion\obj\Debug\TrabajoDeInvestigacion.exe
+C:\Users\tomas.arsenio\source\Repos\TrabajoDeInvestigacion\TrabajoDeInvestigacion\obj\Debug\TrabajoDeInvestigacion.pdb
